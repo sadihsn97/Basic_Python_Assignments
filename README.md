@@ -1,2 +1,2 @@
 # Basic_Python_Assignments
-Theoretical approach
+Theoretical Approach
